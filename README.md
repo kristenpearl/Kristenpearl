@@ -1,4 +1,3 @@
-## Hi
 
 # Hi, I'm Chioma Precious Ogbonna 👋
 
