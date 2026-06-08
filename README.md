@@ -1,5 +1,5 @@
 
-# Hi, I'm Chioma Precious Ogbonna 👋
+# Hi, I'm Chioma Precious Ogbonna 
 
 ## Cybersecurity Analyst | Business Analyst | AI Enthusiast
 
