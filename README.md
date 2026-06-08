@@ -33,8 +33,7 @@ Machine learning application that detects phishing emails using NLP and supervis
 
 ### Education
 
-Bachelor of Engineering (B.Eng.)  
-Electrical & Electronics Engineering
+ (B.Eng.) 
 
 ### Professional Interests
 
